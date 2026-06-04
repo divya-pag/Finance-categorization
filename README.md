@@ -66,19 +66,3 @@ Financial-Category-Prediction/
 * Built a complete machine learning pipeline from preprocessing to deployment.
 * Implemented text classification using TF-IDF and Logistic Regression.
 * Developed a web interface for real-time transaction category prediction using Flask.
-
-## Getting Started
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-python app.py
-```
-
-Open the application in your browser and enter transaction details to predict the transaction category.
